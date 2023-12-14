@@ -1,3 +1,1 @@
-# HR Application
-
-This is a simple Human Resources (HR) application written in Java to manage employees and departments.
+This is a repository for HRApp, a capstone project (Case Study) from Oracle University's Java Explorer class.
